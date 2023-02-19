@@ -13,13 +13,7 @@ This is a  Selenium Java TestNG Maven framework that automates a UI Test framewo
 
 ## Getting Started
 
-** The test automates the  selection of an item(Samsung) on the  Amazon website and prints information details about the second highest samsung appliance selected item on the console
-2.To run a rest assured post call to create user while the following assertions were made
-- i. Response code
-- ii. Response schema
-- iii. Response time is within 2 seconds
-- iv. Response header has “Content-Type” with value containing “application/json”
-- v. Response can be deserialised to POJO**
+** The test automates the orangehrmlive startting from login feature
 
 
 ### Prerequisites
